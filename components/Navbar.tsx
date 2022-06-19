@@ -93,7 +93,7 @@ export const Navbar: React.SFC = () => {
         >
           <svg
             xmlns="http://www.w3.org/2000/svg"
-            className="stroke-current text-gray-600 hover:text-gray-900 h-6 w-6"
+            className="stroke-current text-d-green hover:text-blue-400 h-6 w-6"
             fill="none"
             viewBox="0 0 24 24"
             stroke="currentColor"

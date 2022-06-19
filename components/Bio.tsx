@@ -28,10 +28,10 @@ export const Bio: React.SFC = () => {
           <h1 className="text-xl my-6 w-full md:w-4/5 text-center mx-auto">
             What am I about?
           </h1>
-          <p className="text-base my-6 w-full md:w-4/5 text-justify mx-auto">
+          <p className="text-base my-6 w-full md:w-4/5 text-justify mx-auto break-normal whitespace-normal">
             {data.aboutme_para1}
           </p>
-          <p className="text-base my-6 w-full md:w-4/5 text-justify mx-auto">
+          <p className="text-base my-6 w-full md:w-4/5 text-justify mx-auto break-normal whitespace-normal">
             {data.aboutme_para2}
           </p>
         </Fade>
