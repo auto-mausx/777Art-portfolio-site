@@ -51,7 +51,7 @@ export const Hero: React.SFC = () => {
         <div className="relative grid place-items-center order-1 md:order-2">
           <Image
             loader={modelImageLoader}
-            src={user}
+            src="https://storage.cloud.google.com/triple-seven-timelapse/mainRight.gif?authuser=1"
             alt="Picture of artist"
             objectFit="contain"
             height={imageDimensions[1]}
