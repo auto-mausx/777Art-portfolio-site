@@ -17,8 +17,8 @@ function MyApp({ Component, pageProps }: AppProps) {
 
         <meta name="mobile-web-app-capable" content="yes" />
         <meta name="apple-mobile-web-app-capable" content="yes" />
-        <meta name="application-name" content="Garima Malik" />
-        <meta name="apple-mobile-web-app-title" content="Garima Malik" />
+        <meta name="application-name" content="Dillon777 Art" />
+        <meta name="apple-mobile-web-app-title" content="Dillon777 Art" />
         <meta name="msapplication-starturl" content="/" />
         <meta
           name="viewport"
@@ -47,14 +47,14 @@ function MyApp({ Component, pageProps }: AppProps) {
 
         {/* Essential META Tags */}
 
-        <meta property="og:title" content="Artist Portfolio" />
+        <meta property="og:title" content="Dillon777 Art" />
         <meta
           property="og:description"
-          content="A awesome artist portfolio website."
+          content="Dillon777 Art Portfolio Website"
         />
         <meta
           property="og:image"
-          content="https://res.cloudinary.com/wecloud/image/upload/v1625824185/artist-portfolio/twitter_card-100_innx4h.jpg"
+          content="https://firebasestorage.googleapis.com/v0/b/triple-seven-art.appspot.com/o/oqEDk2Uk7VisDiX_ZJ7cR-open%20graph%20image?alt=media&token=1bf3c75b-2857-44ea-912e-a65f9d1d496b"
         />
         <meta
           property="og:url"
@@ -64,12 +64,12 @@ function MyApp({ Component, pageProps }: AppProps) {
 
         {/* Non-Essential, But Recommended */}
 
-        <meta property="og:site_name" content="Artist Portfolio" />
-        <meta name="twitter:image:alt" content="Artist Portfolio" />
+        <meta property="og:site_name" content="Dillon777 Art Portfolio" />
+        <meta name="twitter:image:alt" content="Dillon777 Art Portfolio" />
 
         {/* Non-Essential, But Required for Analytics */}
 
-        <meta name="twitter:site" content="@satvikvirmani" />
+        <meta name="twitter:site" content="@dillon777art" />
       </Head>
       <AnimateSharedLayout>
         <Component {...pageProps} />

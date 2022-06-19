@@ -1,11 +1,11 @@
 export const data = {
   name: "777 Art",
   job: "NFT Artist",
-  email: "testEmail@gmail.com",
-  instagram_link: "https://www.instagram.com/",
-  facebook_link: "https://www.facebook.com/",
+  email: "Dillon777art@gmail.com",
+  twitter_link: "https://mobile.twitter.com/dillon777art",
+  discord_link: "https://discord.gg/bC7jxqXtMa",
   aboutme_para1:
-    "​Some awesome about me section that is really cool and explains everything you do in the NFT space, maybe mentions your Discord and upcoming projects and stuff like that. I'm not sure how long this will be but I'm sure it will be long enough to be interesting and interesting to read.",
+    "​Dillon is a digital artist in web3 who was born and raised in Kentucky. He loves punk rock, metal culture, drawing and the outdoors.",
   aboutme_para2:
-    "Here's another about section that you can go into some more detail about some cool projects coming up, I'm not sure what will go here that's totally up to you and I'm just filling this text out so you can get an idea of what it's gonna be like.",
+    "He is best known for the concept art he produced for the band Avenged Sevenfold for their Trax podcast. Dillon started his blockchain journey making NFT derivatives for fellow community members and is currently expanding to making his own NFT collections!",
 };
