@@ -4,7 +4,6 @@ import "firebase/firebase-auth";
 import "firebase/storage";
 import "firebase/firestore";
 
-console.log(process.env.apiKey)
 
 const config = {
   apiKey: "AIzaSyBBtJaPFlEIqXUmjNKE9b8n9HLDFdL4RnM",

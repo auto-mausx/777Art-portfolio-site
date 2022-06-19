@@ -1,5 +1,5 @@
 import * as React from "react";
-import user from '../mock/asset5.jpg'
+import user from '../mock/mainRight.gif'
 import Image from "next/image";
 import intro from "../mock/intro.gif"
 
