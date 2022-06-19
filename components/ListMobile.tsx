@@ -64,7 +64,7 @@ export const ListMobile: React.SFC = () => {
               </svg>
             </a>
           </li>
-          <li className="py-1 px-2 text-sm font-extralight">
+          <li className="py-1 px-2 text-sm font-extralight grid place-items-center">
             <a href={data.discord_link} className="leading-none text-red-500">
               <svg
                 className="fill-current stroke-current text-d-green hover:text-blue-200 w-4 h-4"
