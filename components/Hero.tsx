@@ -1,5 +1,5 @@
 import * as React from "react";
-import user from '../mock/mainRight.gif'
+import user from '../public/images/mainRight.gif'
 import Image from "next/image";
 import intro from "../mock/intro.gif"
 
@@ -51,7 +51,7 @@ export const Hero: React.SFC = () => {
         <div className="relative grid place-items-center order-1 md:order-2">
           <Image
             loader={modelImageLoader}
-            src="https://storage.cloud.google.com/triple-seven-timelapse/mainRight.gif?authuser=1"
+            src={user}
             alt="Picture of artist"
             objectFit="contain"
             height={imageDimensions[1]}
